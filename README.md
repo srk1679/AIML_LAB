@@ -6,4 +6,7 @@
 
 [lab-4](https://github.com/srk1679/AIML_LAB/blob/main/Lab04.ipynb)
 
+[lab-5](https://github.com/srk1679/AIML_LAB/blob/main/Lab05.ipynb)
+
+
 

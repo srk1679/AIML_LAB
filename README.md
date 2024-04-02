@@ -10,6 +10,6 @@
 
 [lab-6](https://github.com/srk1679/AIML_LAB/blob/main/LAB06.ipynb)
 
-
+[lab-7](https://github.com/srk1679/AIML_LAB/blob/main/Lab_07.ipynb)
 
 

@@ -12,4 +12,4 @@
 
 [lab-7](https://github.com/srk1679/AIML_LAB/blob/main/Lab_07.ipynb)
 
-
+[lab-8](https://github.com/srk1679/AIML_LAB/blob/main/Lab_08.ipynb)

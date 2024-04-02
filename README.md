@@ -4,3 +4,6 @@
 
 [lab-3](https://github.com/srk1679/AIML_LAB/blob/main/Lab03.ipynb)
 
+[lab-4](https://github.com/srk1679/AIML_LAB/blob/main/Lab04.ipynb)
+
+

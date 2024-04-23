@@ -16,7 +16,10 @@
 
 [lab-9](https://github.com/srk1679/AIML_LAB/blob/main/AIML_LAB9.ipynb)
 
-[lab-10](
+[lab-10](https://github.com/srk1679/AIML_LAB/blob/main/LAB_10.ipynb)
+
+
+
 
 
 
